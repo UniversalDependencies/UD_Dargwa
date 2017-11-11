@@ -5,5 +5,5 @@ Data available since: UD v2.1
 License: CC BY-NC-SA 4.0
 Genre: spoken
 Contributors: Kozhukhar, Sasha; Lyashevskaya, Olga
-Contact: olesar@yandex.ru
+Contact: sasha.kozhukhar@gmail.com, olesar@yandex.ru
 ===============================================================================
